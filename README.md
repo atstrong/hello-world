@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi my name is Andrew. I'm learning to code. 
